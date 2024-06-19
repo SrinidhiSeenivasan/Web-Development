@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar-brand{ 
+  font-family: "Oleo Script", sans-serif; 
+  font-size: 25px;
+  color:darkblue ;
+  text-shadow:black 1px 0 10px;
+}
